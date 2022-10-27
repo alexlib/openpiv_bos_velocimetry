@@ -1,4 +1,5 @@
 
 *.tif
 .vscode/settings.json
-data/*.png
+data/set1/*.png
+data/results_set1/*
