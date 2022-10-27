@@ -1,3 +1,4 @@
 
 *.tif
 .vscode/settings.json
+data/*.png
